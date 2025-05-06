@@ -38,5 +38,6 @@ But what if the process of Emperor Yongzheng’s ascension to the throne had bee
 ## Controls
 
 * **Mouse:** Click on in-text links or on-screen buttons to choose actions.
+* **Profile Button**: Click the 'Profile' button in the sidebar to view character profiles.
 
 *Enjoy your journey through the intrigues of the Qing court!*
